@@ -1,7 +1,7 @@
 ### 快递100物流查询
 #### 1、安装
 ```shell
-composer require xxx/xxx
+composer require charlesjiang/kd100
 ```
 
 #### 2、调用
