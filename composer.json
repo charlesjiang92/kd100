@@ -1,0 +1,15 @@
+{
+    "name": "charles/kd100",
+    "description": "快递100物流查询",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle" : "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Utils\\": "src/Utils"
+        }
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
